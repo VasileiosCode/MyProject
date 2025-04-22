@@ -14,7 +14,6 @@ for i in range(0,len(s)):
 print(result)
 
 
-
 print('\n')
 
 word = input('Please enter the word: ')
@@ -26,3 +25,5 @@ for x in range(0,len(word)):
         empty_str += s[x]
 
 print(empty_str)
+
+D/T: 22.04.2025 13:27
