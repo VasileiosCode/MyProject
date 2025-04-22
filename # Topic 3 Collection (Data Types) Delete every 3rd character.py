@@ -27,3 +27,4 @@ for x in range(0,len(word)):
 print(empty_str)
 
 D/T: 22.04.2025 13:27
+D/T  22.04.2025 13:30
