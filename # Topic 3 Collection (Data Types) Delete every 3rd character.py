@@ -15,8 +15,6 @@ print(result)
 
 
 
-
-
 print('\n')
 
 word = input('Please enter the word: ')
